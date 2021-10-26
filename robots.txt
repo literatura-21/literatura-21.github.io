@@ -1,0 +1,9 @@
+User-agent: *
+
+User-agent: Googlebot
+
+User-agent: Yandex
+
+Host: https://literatura-21.github.io/
+
+Sitemap: https://literatura-21.github.io/sitemap.xml
