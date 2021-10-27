@@ -11,6 +11,14 @@
 	margin-bottom: 3%;
 }
 
+#bookvideo {
+	margin-left: 1%;
+	margin-right: 1%;
+	width: 100%;
+    height: auto;
+	
+}
+
 .russmonvideo {
 	margin-top: 1%;
 	margin-bottom: 1%;
@@ -69,6 +77,8 @@
 #ganovavideo  video {
 	margin-left: 1%;
 	margin-right: 1%;
+	width: 100%;
+    height: auto;
 }
 
 .ganovavideo-blog {
