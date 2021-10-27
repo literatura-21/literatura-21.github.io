@@ -21,7 +21,7 @@
     font-style: normal;
     font-weight: 300; 
 	font-size: 24px;
-    color: rgb(255, 33, 217);
+    color: rgb(0, 0, 0);
 	font-size: 30px;
 	margin-left: 2%;
 	margin-right: 2%;
@@ -32,14 +32,14 @@
     font-style: normal;
     font-weight: 300; 
 	font-size: 20px;
-    color: rgb(255, 33, 217);
+    color: rgb(0, 0, 0);
  	margin-left: 2%;
 	margin-right: 2%;   
 }
 
 #bookvideo .btn-book {
 	color: rgb(255, 255, 255);
-	background-color: rgb(255, 33, 217);
+	background-color: #86e527;
 	border-color: #ccc;
 	width: 85%;
 	margin-top: 3%;
@@ -81,7 +81,7 @@
     font-style: normal;
     font-weight: 300; 
 	font-size : 2.5em;
-    color: rgb(255, 33, 217);
+    color: rgb(0, 0, 0);
 	font-size: 30px;
 	margin-left: 1%;
 	margin-right: 1%;
@@ -93,7 +93,7 @@
     font-style: normal;
     font-weight: 300; 
 	font-size: 2em;
-    color: rgb(255, 33, 217);
+    color: rgb(0, 0, 0);
  	margin-left: 1%;
 	margin-right: 1%; 
     text-align: center;	
@@ -101,7 +101,7 @@
 
 #ganovavideo .btn-video {
 	color: rgb(255, 255, 255);
-	background-color: rgb(255, 33, 217);
+	background-color: #86e527;
 	border-color: #ccc;
 	width: 85%;
 	margin-top: 8%;
@@ -110,7 +110,7 @@
 
 #ganovavideo .btn-video:hover {
 	color: rgb(255, 33, 217);
-	background-color: rgb(255, 255, 255);
+	background-color: #86e527;
 	border-color: #ccc;
 	width: 85%;
 	margin-top: 8%;
