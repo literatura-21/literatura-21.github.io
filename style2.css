@@ -75,7 +75,7 @@ body {
     margin-left: auto;
     margin-right: right;
     width: 85%;
-    height: 900px;
+    height: auto;
     background-color: #ffffff;
     text-align: justify;
     padding: 8px;
@@ -109,8 +109,6 @@ hr {
 	margin-right : 15%;
     margin-left : 15%;
     float : left;
-	max-height: auto;
-	max-width: 1000px;
     box-shadow: 7px 7px 5px #E0E0E0;
 }
 
@@ -210,7 +208,7 @@ body {
     margin-left: auto;
     margin-right: right;
     width: 95%;
-    height: 900px;
+    height: auto;
     background-color: #ffffff;
     text-align: justify;
     padding: 8px;
@@ -243,8 +241,6 @@ hr {
     display : block;
 	height: auto;
 	width: 100%;
-	max-height: auto;
-	max-width: 1000px;
 	margin : 1%;
     box-shadow: 7px 7px 5px #E0E0E0;
 }
@@ -342,7 +338,7 @@ body {
     margin-left: auto;
     margin-right: right;
     width: 95%;
-    height: 800px;
+    height: auto;
     background-color: #ffffff;
     text-align: justify;
     padding: 8px;
@@ -375,8 +371,6 @@ hr {
     display : block;
 	height: auto;
 	width: 100%;
-	max-height: auto;
-	max-width: 1000px;
 	margin : 1%;
     box-shadow: 7px 7px 5px #E0E0E0;
 }
@@ -471,7 +465,7 @@ body {
     margin-left: auto;
     margin-right: right;
     width: 95%;
-    height: 800px;
+    height: auto;
     background-color: #ffffff;
     text-align: justify;
     padding: 8px;
@@ -504,8 +498,6 @@ hr {
     display : block;
 	height: auto;
 	width: 100%;
-	max-height: auto;
-	max-width: 1000px;
     box-shadow: 7px 7px 5px #E0E0E0;
 }
 
