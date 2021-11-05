@@ -1,6 +1,6 @@
 /*
- * книги, цифровые книги Ebooks https://literatura-21.github.io/videoblog.html
- * Книги, романы, скачать, читать онлайн, books, novels, writers, read online
+ * ПОДКАСТЫ АУДИОКНИГИ книги, цифровые книги Ebooks https://literatura-21.github.io/podcasts-russianmonarchy-ganovaludmila.html
+ * AUDIOBOOKS PODCASTS Книги, романы, скачать, читать онлайн, books, novels, writers, read online
  */
  
 
@@ -57,7 +57,7 @@ h2 {
 }
 
 
-#Videoblog {
+#podcast {
     position: relative;	
 	width: 100%;
 	display: block;
@@ -65,12 +65,12 @@ h2 {
     padding: 40px 7px;
 }
 
-.video-blog {
+.podcast-blog {
     padding: 5% 5%;
 	box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
 }
 
-.video {
+.podcasts {
   width: 100%;
   height: auto;
   max-height: 100%;
@@ -94,6 +94,29 @@ h2 {
 
 @media screen and (max-width: 1280px) {
 
+#podcast {
+    position: relative;	
+	width: 100%;
+	display: block;
+	background-color: #fff;
+    padding: 40px 7px;
+}
+
+.podcast-blog {
+    padding: 5% 5%;
+	box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
+}
+
+.podcasts {
+  width: 100%;
+  height: auto;
+  max-height: 100%;
+}
+
+#footer {
+    padding: 7px 7px;
+	margin: 15px;
+}
 
 
 
@@ -103,34 +126,7 @@ h2 {
 
 @media (max-width: 480px) {
 
-h1 {
-  color: white;
-  text-shadow: 2px 2px 4px #000000;
-  margin: 10px 10px;
-  margin-bottom: 1px;
-  font-size : 24px;
-}
-
-h2, a {
-	font-family: 'Roboto Slab', serif, Arial;
-    font-style: bold;
-    font-weight: 300;
-	font-size : 16px;
-	color: #423f3f;
-    text-align: justify;	
-}
-
-h2 {
-	font-family: 'Roboto Slab', serif, Arial;
-    font-style: bold;
-    font-weight: 300;
-	font-size : 20px;
-	color: #423f3f;
-    text-align: justify;	
-}
-
-
-#Videoblog {
+#podcast {
     position: relative;	
 	width: 100%;
 	display: block;
@@ -138,49 +134,28 @@ h2 {
     padding: 40px 7px;
 }
 
-.video-blog {
+.podcast-blog {
     padding: 5% 5%;
 	box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
 }
 
-.video {
+.podcasts {
   width: 100%;
   height: auto;
   max-height: 100%;
 }
+
+#footer {
+    padding: 7px 7px;
+	margin: 15px;
+}
+
 
 }
 
 @media (max-width: 360px) {
 
-h1 {
-  color: white;
-  text-shadow: 2px 2px 4px #000000;
-  margin: 10px 10px;
-  margin-bottom: 1px;
-  font-size : 24px;
-}
-
-h2, a {
-	font-family: 'Roboto Slab', serif, Arial;
-    font-style: bold;
-    font-weight: 300;
-	font-size : 16px;
-	color: #423f3f;
-    text-align: justify;	
-}
-
-h2 {
-	font-family: 'Roboto Slab', serif, Arial;
-    font-style: bold;
-    font-weight: 300;
-	font-size : 20px;
-	color: #423f3f;
-    text-align: justify;	
-}
-
-
-#Videoblog {
+#podcast {
     position: relative;	
 	width: 100%;
 	display: block;
@@ -188,15 +163,21 @@ h2 {
     padding: 40px 7px;
 }
 
-.video-blog {
+.podcast-blog {
     padding: 5% 5%;
 	box-shadow: 0 2px 5px 0 rgba(0,0,0,0.16),0 2px 10px 0 rgba(0,0,0,0.12);
 }
 
-.video {
+.podcasts {
   width: 100%;
   height: auto;
   max-height: 100%;
 }
+
+#footer {
+    padding: 7px 7px;
+	margin: 15px;
+}
+
 
 }
