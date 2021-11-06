@@ -421,7 +421,7 @@ h2, a {
 	text-decoration: none;
 }
 
-/* https://literatura-21.ru/ contact */ 
+/* https://literatura-21.github.io/ contact */ 
 
 #contact {
 	width: 100%;
@@ -541,7 +541,8 @@ a:focus, .btn2:focus, .btn2:active:focus, .btn2.active:focus, .btn2:focus, .btn2
 	padding: 0 0;
 }
 
-/* https://literatura-21.ru/ contact */ 
+/* https://literatura-21.github.io/ contact */ 
+
 
 @-ms-viewport {
 	width: device-width;
