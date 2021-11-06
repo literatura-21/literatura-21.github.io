@@ -543,6 +543,18 @@ a:focus, .btn2:focus, .btn2:active:focus, .btn2.active:focus, .btn2:focus, .btn2
 
 /* https://literatura-21.github.io/ contact */ 
 
+#Audio {	
+	width: 100%;
+	display: inline-block;
+	background-color: #fff;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+    padding: 50px 7px;
+    font-size: 14px;
+}
+
 
 @-ms-viewport {
 	width: device-width;
