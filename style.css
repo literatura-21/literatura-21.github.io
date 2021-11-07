@@ -190,10 +190,9 @@ h2, a {
 	border-color: #86e527;
 }
 
-#filmcritic {	
-	width: 100%;
+#filmcritic {
+ 	width: 100%;
 	display: inline-block;
-	background: #ffffff;
 	background-color: #fff;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -202,25 +201,12 @@ h2, a {
     padding: 50px 7px;
 }
 
-
-#filmcritic .kinokritika {
-    position: relative;
-    z-index: 1;
-}
-
-
-.kinokritika {
-    padding: 10px 40px;
-}
-
-.kinokritika2   {
+.kinokritika  {
 	font-family: 'Roboto Slab', serif, Arial;
     font-weight: 300;
 	font-size : 20px;
 	color: #000;
-    text-align: justify;
-	background-color: #fff;
-	opacity: 0.9;
+    text-align: justify; 
 }
 
 #filmcritic  .btn-default {
@@ -605,6 +591,22 @@ a:focus, .btn2:focus, .btn2:active:focus, .btn2.active:focus, .btn2:focus, .btn2
     font-size: 12px;
 }
 
+#Audio audio {	
+    padding: 10px 7px;
+}
+
+#Audio2 audio {	
+    padding: 10px 7px;
+}
+
+#Audio3 audio {	
+    padding: 10px 7px;
+}
+
+#Audio4 audio {	
+    padding: 10px 7px;
+}
+
 
 @-ms-viewport {
 	width: device-width;
@@ -802,10 +804,9 @@ h2, a {
 	border-color: #86e527;
 }
 
-#filmcritic {	
-	width: 100%;
+#filmcritic {
+ 	width: 100%;
 	display: inline-block;
-	background: #ffffff;
 	background-color: #fff;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -814,25 +815,12 @@ h2, a {
     padding: 50px 7px;
 }
 
-
-#filmcritic .kinokritika {
-    position: relative;
-    z-index: 1;
-}
-
-
-.kinokritika {
-    padding: 10px 40px;
-}
-
-.kinokritika2   {
+.kinokritika  {
 	font-family: 'Roboto Slab', serif, Arial;
     font-weight: 300;
 	font-size : 20px;
 	color: #000;
-    text-align: justify;
-	background-color: #fff;
-	opacity: 0.9;
+    text-align: justify; 
 }
 
 #filmcritic  .btn-default {
@@ -1225,10 +1213,9 @@ h2, a {
 	border-color: #86e527;
 }
 
-#filmcritic {	
-	width: 100%;
+#filmcritic {
+ 	width: 100%;
 	display: inline-block;
-	background: #ffffff;
 	background-color: #fff;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -1237,25 +1224,12 @@ h2, a {
     padding: 50px 7px;
 }
 
-
-#filmcritic .kinokritika {
-    position: relative;
-    z-index: 1;
-}
-
-
-.kinokritika {
-    padding: 10px 40px;
-}
-
-.kinokritika2   {
+.kinokritika  {
 	font-family: 'Roboto Slab', serif, Arial;
     font-weight: 300;
 	font-size : 20px;
 	color: #000;
-    text-align: justify;
-	background-color: #fff;
-	opacity: 0.9;
+    text-align: justify; 
 }
 
 #filmcritic  .btn-default {
@@ -1645,10 +1619,9 @@ h2, a {
 	border-color: #86e527;
 }
 
-#filmcritic {	
-	width: 100%;
+#filmcritic {
+ 	width: 100%;
 	display: inline-block;
-	background: #ffffff;
 	background-color: #fff;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -1657,25 +1630,12 @@ h2, a {
     padding: 50px 7px;
 }
 
-
-#filmcritic .kinokritika {
-    position: relative;
-    z-index: 1;
-}
-
-
-.kinokritika {
-    padding: 10px 40px;
-}
-
-.kinokritika2   {
+.kinokritika  {
 	font-family: 'Roboto Slab', serif, Arial;
     font-weight: 300;
 	font-size : 20px;
 	color: #000;
-    text-align: justify;
-	background-color: #fff;
-	opacity: 0.9;
+    text-align: justify; 
 }
 
 #filmcritic  .btn-default {
