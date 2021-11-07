@@ -3,6 +3,104 @@
  * Writer Ganova Ludmila Tsurikov Ilya, Ket Gun books, author's articles film critic
  */
  
+#booknew {	
+	width: 100%;
+	display: inline-block;
+	background-color: #fff;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+    padding: 50px 7px;
+}
+
+#booknew2 {	
+	width: 100%;
+	display: inline-block;
+	background-color: #fff;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+    padding: 50px 7px;
+}
+
+#Audio {	
+	width: 100%;
+	display: inline-block;
+	background-color: #fff;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+    padding: 50px 7px;
+    font-size: 12px;
+}
+
+#Audio2 {	
+	width: 100%;
+	display: inline-block;
+	background-color: #fff;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+    padding: 50px 7px;
+    font-size: 12px;
+}
+
+#Audio3 {	
+	width: 100%;
+	display: inline-block;
+	background-color: #fff;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+    padding: 50px 7px;
+    font-size: 12px;
+}
+
+#Audio4 {	
+	width: 100%;
+	display: inline-block;
+	background-color: #fff;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-size: cover;
+	-o-background-size: cover;
+    padding: 50px 7px;
+    font-size: 12px;
+}
+
+#Audio audio {	
+    margin-left: 1%;
+	margin-right: 1%;
+	width: 100%;
+    height: auto;
+}
+
+#Audio2 audio {	
+	margin-left: 1%;
+	margin-right: 1%;
+	width: 100%;
+    height: auto;
+}
+
+#Audio3 audio {	
+	margin-left: 1%;
+	margin-right: 1%;
+	width: 100%;
+    height: auto;
+}
+
+#Audio4 audio {	
+	margin-left: 1%;
+	margin-right: 1%;
+	width: 100%;
+    height: auto;
+}
+ 
 #bookvideo {
 	width: 100%;
 	display: inline-block;

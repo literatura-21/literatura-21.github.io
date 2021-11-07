@@ -13,7 +13,6 @@ html {
 }
 
 body {
-   max-width: 100%;
    font-family: 'Roboto Slab', serif, Arial;
    font-weight: 300;
    font-size : 20px;
@@ -628,7 +627,6 @@ html {
 }
 
 body {
-   max-width: 100%;
    font-family: 'Roboto Slab', serif, Arial;
    font-weight: 300;
    font-size : 20px;
@@ -1038,7 +1036,6 @@ html {
 }
 
 body {
-   max-width: 100%;
    font-family: 'Roboto Slab', serif, Arial;
    font-weight: 300;
    font-size : 20px;
@@ -1445,7 +1442,6 @@ html {
 }
 
 body {
-   max-width: 100%;
    font-family: 'Roboto Slab', serif, Arial;
    font-weight: 300;
    font-size : 20px;
