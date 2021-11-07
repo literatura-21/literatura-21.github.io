@@ -228,6 +228,16 @@ h2, a {
 	border-color: #86e527;
 }
 
+#filmcritic .kinokritika {
+    position: relative;
+    z-index: 1;
+}
+
+.kinokritika2  {
+    padding: 10px 40px;
+ 
+}
+
 
 .boxshadow  {
     box-shadow: 3px 4px 4px 0 rgba(0, 0, 0, 0.1), 3px 5px 12px 0 rgba(0, 0, 0, 0.11);
