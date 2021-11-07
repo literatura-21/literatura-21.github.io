@@ -191,14 +191,11 @@ h2, a {
 }
 
 #filmcritic {
- 	width: 100%;
-	display: inline-block;
+    position: relative;	
+	width: 100%;
+	display: block;
 	background-color: #fff;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	background-size: cover;
-	-o-background-size: cover;
-    padding: 50px 7px;
+    padding: 40px 7px;
 }
 
 .kinokritika  {
@@ -206,8 +203,8 @@ h2, a {
     font-weight: 300;
 	font-size : 20px;
 	color: #000;
-    text-align: justify;
-    width: 100%;	
+    text-align: justify; 
+	width: 100%;
 }
 
 #filmcritic  .btn-default {
@@ -790,14 +787,11 @@ h2, a {
 }
 
 #filmcritic {
- 	width: 100%;
-	display: inline-block;
+    position: relative;	
+	width: 100%;
+	display: block;
 	background-color: #fff;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	background-size: cover;
-	-o-background-size: cover;
-    padding: 50px 7px;
+    padding: 40px 7px;
 }
 
 .kinokritika  {
@@ -806,6 +800,7 @@ h2, a {
 	font-size : 20px;
 	color: #000;
     text-align: justify; 
+	width: 100%;
 }
 
 #filmcritic  .btn-default {
@@ -1199,14 +1194,11 @@ h2, a {
 }
 
 #filmcritic {
- 	width: 100%;
-	display: inline-block;
+    position: relative;	
+	width: 100%;
+	display: block;
 	background-color: #fff;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	background-size: cover;
-	-o-background-size: cover;
-    padding: 50px 7px;
+    padding: 40px 7px;
 }
 
 .kinokritika  {
@@ -1215,6 +1207,7 @@ h2, a {
 	font-size : 20px;
 	color: #000;
     text-align: justify; 
+	width: 100%;
 }
 
 #filmcritic  .btn-default {
@@ -1605,14 +1598,11 @@ h2, a {
 }
 
 #filmcritic {
- 	width: 100%;
-	display: inline-block;
+    position: relative;	
+	width: 100%;
+	display: block;
 	background-color: #fff;
-	-webkit-background-size: cover;
-	-moz-background-size: cover;
-	background-size: cover;
-	-o-background-size: cover;
-    padding: 50px 7px;
+    padding: 40px 7px;
 }
 
 .kinokritika  {
@@ -1621,6 +1611,7 @@ h2, a {
 	font-size : 20px;
 	color: #000;
     text-align: justify; 
+	width: 100%;
 }
 
 #filmcritic  .btn-default {
