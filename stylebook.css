@@ -3,28 +3,6 @@
  * Writer Ganova Ludmila Tsurikov Ilya, Ket Gun books, author's articles film critic
  */
  
- html {
-    max-width: 100%;
-	background-color: #ffffff;
-   -webkit-background-size: cover;
-   -moz-background-size: cover;
-   -o-background-size: cover;
-   background-size: cover;
-}
-
-body {
-   max-width: 100%;
-   font-family: 'Roboto Slab', serif, Arial;
-   font-weight: 300;
-   font-size : 20px;
-   color: #336633;
-   text-align: justify; 
-  -webkit-transition: width 2s, height 2s,-webkit-transform 2s;  
-  -moz-transition: width 2s, height 2s, -moz-transform 2s;
-  -o-transition: width 2s, height 2s, -o-transform 2s;
-   transition: width 2s, height 2s, transform 2s;
-}
- 
 
 #booknew {	
 	width: 100%;
@@ -34,7 +12,7 @@ body {
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
-    padding: 50px 7px;
+    padding: 7px 7px;
 }
 
 #booknew2 {	
@@ -45,7 +23,7 @@ body {
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
-    padding: 50px 7px;
+    padding: 7px 7px;
 }
 
 #Audio {	
@@ -279,7 +257,7 @@ body {
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
-    padding: 50px 7px;
+    padding: 7px 7px;
 }
 
 #booknew2 {	
@@ -290,7 +268,7 @@ body {
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
-    padding: 50px 7px;
+    padding: 7px 7px;
 }
 
 #Audio {	
@@ -520,7 +498,7 @@ body {
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
-    padding: 50px 7px;
+    padding: 7px 7px;
 }
 
 #booknew2 {	
@@ -531,7 +509,7 @@ body {
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
-    padding: 50px 7px;
+    padding: 7px 7px;
 }
 
 #Audio {	
@@ -761,7 +739,7 @@ body {
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
-    padding: 50px 7px;
+    padding: 7px 7px;
 }
 
 #booknew2 {	
@@ -772,7 +750,7 @@ body {
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
-    padding: 50px 7px;
+    padding: 7px 7px;
 }
 
 #Audio {	
@@ -1001,7 +979,7 @@ body {
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
-    padding: 50px 7px;
+    padding: 7px 7px;
 }
 
 #booknew2 {	
@@ -1012,7 +990,7 @@ body {
 	-moz-background-size: cover;
 	background-size: cover;
 	-o-background-size: cover;
-    padding: 50px 7px;
+    padding: 7px 7px;
 }
 
 #Audio {	
