@@ -1,6 +1,6 @@
 /*
- * РЎРѕРІСЂРµРјРµРЅРЅР°СЏ Р»РёС‚РµСЂР°С‚СѓСЂР° 21 РІРµРєР° Р“Р°РЅРѕРІР° Р›СЋРґРјРёР»Р° Р¦СѓСЂРёРєРѕРІ РР»СЊСЏ Ket Gun modern literature  https://literatura-21.github.io/
- * РљРЅРёРіРё, РїСѓР±Р»РёС†РёСЃС‚РёРєР° РєРёРЅРѕРєСЂРёС‚РёРєР° СЃС‚Р°С‚СЊРё, СЂРѕРјР°РЅС‹, СЃРєР°С‡Р°С‚СЊ РѕРЅР»Р°Р№РЅ, РїРёСЃР°С‚РµР»Рё
+ * Современная литература 21 века Ганова Людмила Цуриков Илья Ket Gun modern literature  https://literatura-21.github.io/
+ * Книги, публицистика кинокритика статьи, романы, скачать онлайн, писатели
  */
  
 
@@ -23,7 +23,6 @@ body {
   -moz-transition: width 2s, height 2s, -moz-transform 2s;
   -o-transition: width 2s, height 2s, -o-transform 2s;
    transition: width 2s, height 2s, transform 2s;
-   overflow-y: auto;
 }
 
 .clear {
@@ -77,6 +76,7 @@ h2, a {
 #literatura {	
 	width: 100%;
 	display: inline-block;
+	background: url(https://literatura-21.github.io/img/literatura.gif) no-repeat center center fixed;
 	background-color: #fff;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -238,6 +238,7 @@ h2, a {
 #nobelprize {
     width: 100%;
 	display: inline-block;
+	background: url(https://literatura-21.github.io/img/literature.jpg) no-repeat center center fixed;
 	background-color: #86e527;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -300,6 +301,7 @@ h2, a {
 #publication {	
 	width: 100%;
 	display: inline-block;
+	background: url(https://literatura-21.github.io/img/literatura.gif) no-repeat center center fixed;
 	background-color: #fff;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -369,6 +371,7 @@ h2, a {
 #Auction {	
 	width: 100%;
 	display: inline-block;
+	background: url(https://literatura-21.github.io/img/Auction.jpg) no-repeat center center fixed;
 	background-color: #fff;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -424,6 +427,7 @@ h2, a {
 #contact {
 	width: 100%;
 	display: inline-block;
+	background: url(https://literatura-21.github.io/img/Footer.png) no-repeat center center fixed;
 	background-color: #fff;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -540,7 +544,7 @@ a:focus, .btn2:focus, .btn2:active:focus, .btn2.active:focus, .btn2:focus, .btn2
 
 /* https://literatura-21.github.io/ contact */ 
 
-footer {
+#footer {
     margin-top: 1%;
     margin-bottom: 1%;
 }
@@ -627,6 +631,7 @@ h2, a {
 #literatura {	
 	width: 100%;
 	display: inline-block;
+	background: url(https://literatura-21.github.io/img/literatura.gif) no-repeat center center fixed;
 	background-color: #fff;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -788,6 +793,7 @@ h2, a {
 #nobelprize {
     width: 100%;
 	display: inline-block;
+	background: url(https://literatura-21.github.io/img/literature.jpg) no-repeat center center fixed;
 	background-color: #ffffff;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -846,6 +852,7 @@ h2, a {
 #publication {	
 	width: 100%;
 	display: inline-block;
+	background: url(https://literatura-21.github.io/img/literatura.gif) no-repeat center center fixed;
 	background-color: #fff;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -904,6 +911,7 @@ h2, a {
 #Auction {	
 	width: 100%;
 	display: inline-block;
+	background: url(https://literatura-21.github.io/img/Auction.jpg) no-repeat center center fixed;
 	background-color: #fff;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -1033,6 +1041,7 @@ h2, a {
 #literatura {	
 	width: 100%;
 	display: inline-block;
+	background: url(https://literatura-21.github.io/img/literatura.gif) no-repeat center center fixed;
 	background-color: #fff;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -1194,6 +1203,7 @@ h2, a {
 #nobelprize {
     width: 100%;
 	display: inline-block;
+	background: url(https://literatura-21.github.io/img/literature.jpg) no-repeat center center fixed;
 	background-color: #ffffff;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -1252,6 +1262,7 @@ h2, a {
 #publication {	
 	width: 100%;
 	display: inline-block;
+	background: url(https://literatura-21.github.io/img/literatura.gif) no-repeat center center fixed;
 	background-color: #fff;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -1310,6 +1321,7 @@ h2, a {
 #Auction {	
 	width: 100%;
 	display: inline-block;
+	background: url(https://literatura-21.github.io/img/Auction.jpg) no-repeat center center fixed;
 	background-color: #fff;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -1436,6 +1448,7 @@ h2, a {
 #literatura {	
 	width: 100%;
 	display: inline-block;
+	background: url(https://literatura-21.github.io/img/literatura.gif) no-repeat center center fixed;
 	background-color: #fff;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -1597,6 +1610,7 @@ h2, a {
 #nobelprize {
     width: 100%;
 	display: inline-block;
+	background: url(https://literatura-21.github.io/img/literature.jpg) no-repeat center center fixed;
 	background-color: #ffffff;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -1655,6 +1669,7 @@ h2, a {
 #publication {	
 	width: 100%;
 	display: inline-block;
+	background: url(https://literatura-21.github.io/img/literatura.gif) no-repeat center center fixed;
 	background-color: #fff;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
@@ -1713,6 +1728,7 @@ h2, a {
 #Auction {	
 	width: 100%;
 	display: inline-block;
+	background: url(https://literatura-21.github.io/img/Auction.jpg) no-repeat center center fixed;
 	background-color: #fff;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
