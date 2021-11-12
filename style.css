@@ -10,10 +10,12 @@ html {
    -moz-background-size: cover;
    -o-background-size: cover;
    background-size: cover;
+   overflow-x: hidden;
 }
 
 body {
    max-width: 100%;
+   overflow-x: hidden;
    font-family: 'Roboto Slab', serif, Arial;
    font-weight: 300;
    font-size : 20px;
@@ -70,7 +72,6 @@ h2, a {
 
 #footer {
     padding: 7px 7px;
-	margin: 15px;
 }
 
 #literatura {	
@@ -565,10 +566,12 @@ html {
    -moz-background-size: cover;
    -o-background-size: cover;
    background-size: cover;
+   overflow-x: hidden;
 }
 
 body {
    max-width: 100%;
+   overflow-x: hidden;
    font-family: 'Roboto Slab', serif, Arial;
    font-weight: 300;
    font-size : 20px;
@@ -625,7 +628,6 @@ h2, a {
 
 #footer {
     padding: 7px 7px;
-	margin: 15px;
 }
 
 #literatura {	
@@ -975,10 +977,12 @@ html {
    -moz-background-size: cover;
    -o-background-size: cover;
    background-size: cover;
+   overflow-x: hidden;
 }
 
 body {
    max-width: 100%;
+   overflow-x: hidden;
    font-family: 'Roboto Slab', serif, Arial;
    font-weight: 300;
    font-size : 20px;
@@ -1035,7 +1039,6 @@ h2, a {
 
 #footer {
     padding: 7px 7px;
-	margin: 15px;
 }
 
 #literatura {	
@@ -1382,10 +1385,12 @@ html {
    -moz-background-size: cover;
    -o-background-size: cover;
    background-size: cover;
+   overflow-x: hidden;
 }
 
 body {
    max-width: 100%;
+   overflow-x: hidden;
    font-family: 'Roboto Slab', serif, Arial;
    font-weight: 300;
    font-size : 20px;
