@@ -5,6 +5,8 @@
  
 
 html {
+    margin: 0;
+	max-width: 100%;
 	background-color: #ffffff;
    -webkit-background-size: cover;
    -moz-background-size: cover;
@@ -12,7 +14,9 @@ html {
    background-size: cover;
 }
 
-body {	
+body {
+    margin: 0;
+	max-width: 100%;	
     font-family: 'Roboto Slab', serif, Arial;
     font-style: bold;
     font-weight: 300;
@@ -107,6 +111,8 @@ h2 {
 
 
 html {
+    margin: 0;
+	max-width: 100%;
 	background-color: #ffffff;
    -webkit-background-size: cover;
    -moz-background-size: cover;
@@ -115,6 +121,8 @@ html {
 }
 
 body {	
+    margin: 0;
+	max-width: 100%;
     font-family: 'Roboto Slab', serif, Arial;
     font-style: bold;
     font-weight: 300;
@@ -201,6 +209,8 @@ h2 {
 @media (max-width: 480px) {
 
 html {
+    margin: 0;
+	max-width: 100%;
 	background-color: #ffffff;
    -webkit-background-size: cover;
    -moz-background-size: cover;
@@ -208,7 +218,9 @@ html {
    background-size: cover;
 }
 
-body {	
+body {
+    margin: 0;
+	max-width: 100%;	
     font-family: 'Roboto Slab', serif, Arial;
     font-style: bold;
     font-weight: 300;
@@ -293,6 +305,8 @@ h2 {
 @media (max-width: 360px) {
 
 html {
+    margin: 0;
+	max-width: 100%;
 	background-color: #ffffff;
    -webkit-background-size: cover;
    -moz-background-size: cover;
@@ -301,6 +315,8 @@ html {
 }
 
 body {	
+    margin: 0;
+	max-width: 100%;
     font-family: 'Roboto Slab', serif, Arial;
     font-style: bold;
     font-weight: 300;
