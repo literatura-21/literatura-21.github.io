@@ -7,6 +7,14 @@
   padding: 0;
 }
 
+body {
+   max-width: 100%;
+   margin: 0;
+   height: 100%;
+   overflow-x: hidden; 
+
+}
+
 iframe {
 display: block;
 margin-left: auto;
