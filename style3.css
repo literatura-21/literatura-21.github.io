@@ -3,17 +3,31 @@
 /*
  * Современная литература  https://literatura-21.github.io/
 ------------------------------------------------ */
-* {
-    margin: 1px;
-    padding: 0;
-}
+
    
 html {
+    margin: 0;
+	max-width: 100%;
+    overflow-x: hidden;
     background: url(literatura.gif) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+
+body {
+   max-width: 100%;
+   margin: 0;
+   height: 100%;
+   display: block;
+   overflow-x: hidden; 
+
+}
+
+img {
+   max-width: 100%;
+   height: auto;
 }
 
 ul {
@@ -60,10 +74,6 @@ a:hover {
 
 a:active {
     color: #ff0000;
-}
-
-body {
-    display: block;
 }
 
 .container {
@@ -102,17 +112,29 @@ pre,p {
    
 @media screen and (max-width: 1280px) {
 
-* {
-    margin: 1px;
-    padding: 0;
-}
    
 html {
+    max-width: 100%;
+    margin: 0;
     background: url(literatura.gif) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+
+body {
+   max-width: 100%;
+   margin: 0;
+   height: 100%;
+   display: block;
+   overflow-x: hidden; 
+
+}
+
+img {
+   max-width: 100%;
+   height: auto;
 }
 
 ul {
@@ -161,9 +183,6 @@ a:active {
     color: #ff0000;
 }
 
-body {
-    display: block;
-}
 
 .container {
     position: relative;
@@ -213,17 +232,29 @@ pre,p {
 
 @media (max-width: 480px) {
 
-* {
-    margin: 1px;
-    padding: 0;
-}
    
 html {
+    max-width: 100%;
+    margin: 0;
     background: url(literatura.gif) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+
+body {
+   max-width: 100%;
+   margin: 0;
+   height: 100%;
+   display: block;
+   overflow-x: hidden; 
+
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 ul {
@@ -272,9 +303,6 @@ a:active {
     color: #ff0000;
 }
 
-body {
-    display: block;
-}
 
 .container {
     position: relative;
@@ -324,17 +352,29 @@ pre,p {
 
 @media (max-width: 360px) {
 
-* {
-    margin: 1px;
-    padding: 0;
-}
    
 html {
+    max-width: 100%;
+    margin: 0;
     background: url(literatura.gif) no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
     background-size: cover;
+}
+
+body {
+   max-width: 100%;
+   margin: 0;
+   height: 100%;
+   display: block;
+   overflow-x: hidden; 
+
+}
+
+img {
+  max-width: 100%;
+  height: auto;
 }
 
 ul {
@@ -383,9 +423,6 @@ a:active {
     color: #ff0000;
 }
 
-body {
-    display: block;
-}
 
 .container {
     position: relative;
