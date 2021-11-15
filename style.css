@@ -5,6 +5,8 @@
  
 
 html {
+    margin: 0;
+	max-width: 100%;
 	background-color: #ffffff;
    -webkit-background-size: cover;
    -moz-background-size: cover;
@@ -14,6 +16,7 @@ html {
 }
 
 body {
+   margin: 0;
    max-width: 100%;
    overflow-x: hidden;
    font-family: 'Roboto Slab', serif, Arial;
@@ -561,6 +564,8 @@ a:focus, .btn2:focus, .btn2:active:focus, .btn2.active:focus, .btn2:focus, .btn2
 
 
 html {
+    margin: 0;
+	max-width: 100%;
 	background-color: #ffffff;
    -webkit-background-size: cover;
    -moz-background-size: cover;
@@ -570,6 +575,7 @@ html {
 }
 
 body {
+   margin: 0;
    max-width: 100%;
    overflow-x: hidden;
    font-family: 'Roboto Slab', serif, Arial;
@@ -972,6 +978,8 @@ h2, a {
 @media (max-width: 480px) {
 
 html {
+    margin: 0;
+	max-width: 100%;
 	background-color: #ffffff;
    -webkit-background-size: cover;
    -moz-background-size: cover;
@@ -981,6 +989,7 @@ html {
 }
 
 body {
+   margin: 0;
    max-width: 100%;
    overflow-x: hidden;
    font-family: 'Roboto Slab', serif, Arial;
@@ -1380,6 +1389,8 @@ h2, a {
 @media (max-width: 360px) {
 
 html {
+    margin: 0;
+	max-width: 100%;
 	background-color: #ffffff;
    -webkit-background-size: cover;
    -moz-background-size: cover;
@@ -1389,6 +1400,7 @@ html {
 }
 
 body {
+   margin: 0;
    max-width: 100%;
    overflow-x: hidden;
    font-family: 'Roboto Slab', serif, Arial;
