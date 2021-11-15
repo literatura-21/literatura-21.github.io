@@ -5,6 +5,8 @@
  
 
 html {
+    margin: 0;
+	max-width: 100%;
 	background-color: #ffffff;
    -webkit-background-size: cover;
    -moz-background-size: cover;
@@ -12,7 +14,10 @@ html {
    background-size: cover;
 }
 
-body {	
+body {
+    margin: 0;
+	max-width: 100%;
+    overflow-x: hidden;	
     font-family: 'Roboto Slab', serif, Arial;
     font-style: bold;
     font-weight: 300;
