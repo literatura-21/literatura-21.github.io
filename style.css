@@ -64,7 +64,7 @@ hr {
     text-align: center;	
 }
 
-h2, a {
+h2 {
 	font-family: 'Roboto Slab', serif, Arial;
     font-weight: 300;
 	font-size : 16px;
@@ -72,6 +72,15 @@ h2, a {
     text-align: justify;
     text-decoration: none;	
 }
+
+a {
+	font-family: 'Roboto Slab', serif, Arial;
+    font-weight: 300;
+	font-size : 16px;
+	color: #0ebb21;
+    text-align: justify;
+}
+
 
 #footer {
     padding: 7px 7px;
@@ -623,13 +632,21 @@ hr {
     text-align: center;	
 }
 
-h2, a {
+h2 {
 	font-family: 'Roboto Slab', serif, Arial;
     font-weight: 300;
 	font-size : 16px;
 	color: #423f3f;
     text-align: justify;
     text-decoration: none;	
+}
+
+a {
+	font-family: 'Roboto Slab', serif, Arial;
+    font-weight: 300;
+	font-size : 16px;
+	color: #0ebb21;
+    text-align: justify;
 }
 
 #footer {
@@ -1037,13 +1054,21 @@ hr {
     text-align: center;	
 }
 
-h2, a {
+h2 {
 	font-family: 'Roboto Slab', serif, Arial;
     font-weight: 300;
 	font-size : 18px;
 	color: #423f3f;
     text-align: justify;
     text-decoration: none;	
+}
+
+a {
+	font-family: 'Roboto Slab', serif, Arial;
+    font-weight: 300;
+	font-size : 16px;
+	color: #0ebb21;
+    text-align: justify;
 }
 
 #footer {
@@ -1448,13 +1473,21 @@ hr {
     text-align: center;	
 }
 
-h2, a {
+h2  {
 	font-family: 'Roboto Slab', serif, Arial;
     font-weight: 300;
 	font-size : 16px;
 	color: #423f3f;
     text-align: justify;
     text-decoration: none;	
+}
+
+a {
+	font-family: 'Roboto Slab', serif, Arial;
+    font-weight: 300;
+	font-size : 16px;
+	color: #0ebb21;
+    text-align: justify;
 }
 
 #footer {
